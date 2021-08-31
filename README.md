@@ -2,6 +2,16 @@
 Python Practice Problems
 
 ### Do not Google for answers. Research around topic areas on how to perform a specific method
+### Solve each problem: Provide at least one solution (i.e. you cant provide more than one approach)
+
+## Submitting your answers
+Fork the repo, locate the solutions folder and problem day.
+
+Create a python file as your username, add your code and push. Make a pull request to this repo. We would merge once there is no conflict. 
+
+Merging will be done 24hrs after the question was posted.
+
+All the best in solving. Find the questions below.
 
 ## DAY 1 - Aug 30 2021
 Given a list, write a Python program to swap first and last element of the list.
