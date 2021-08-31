@@ -1,6 +1,7 @@
 # python-practice-problems
 Python Practice Problems
 
+### Do not Google for answers. Research around topic areas on how to perform a specific method
 
 ## DAY 1 - Aug 30 2021
 Given a list, write a Python program to swap first and last element of the list.
