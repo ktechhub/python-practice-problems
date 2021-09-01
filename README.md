@@ -13,7 +13,7 @@ Merging will be done 24hrs after the question was posted.
 
 All the best in solving. Find the questions below.
 
-## DAY 1 - Aug 30 2021
+## DAY 1 Problem: Aug 30 2021
 Given a list, write a Python program to swap first and last element of the list.
 
 ### EXAMPLES
@@ -25,7 +25,7 @@ Given a list, write a Python program to swap first and last element of the list.
 # Output : [24, 35, 9, 56, 12]
 ```
 
-## DAY 2: Aug 31 2021
+## DAY 2 Problem: Aug 31 2021
 
 Find the first non-repeating character in a string
 
