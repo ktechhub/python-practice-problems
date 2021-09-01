@@ -1,8 +1,10 @@
 # python-practice-problems
-Python Practice Problems
+Python Practice Problems for all Ktechians
 
 ### Do not Google for answers. Research around topic areas on how to perform a specific method
 ### Solve each problem: Provide at least one solution (i.e. you cant provide more than one approach)
+
+### Give tne repo A STAR. Thank you ktechian!
 
 ## Submitting your answers
 Fork the repo, locate the solutions folder and problem day.
